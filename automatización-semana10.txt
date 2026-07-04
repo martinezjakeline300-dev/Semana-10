@@ -1,0 +1,15 @@
+🚀 Flujo de automatización con n8n y Telegram
+ 
+ - Evento que activa el flujo: Se registra exitosamente una nueva incidencia o reporte en la plataforma comunitaria.
+
+ - Acción: n8n envía automáticamente un aviso al grupo o canal de coordinación en Telegram.
+
+ - Mensaje que se envía:
+ "📢 Nuevo reporte registrado en la plataforma. Tipo: [categoría general del reporte]. Fecha: [fecha de registro]. Por favor revisar el sistema para darle seguimiento."
+
+ - Información que NO se debe enviar por seguridad:
+ ✖️ Nombres completos de las personas
+ ✖️ Números de cédula o documentos de identidad
+ ✖️ Direcciones exactas, teléfonos o correos privados
+ ✖️ Datos de ubicación precisa
+ ✖️ Contraseñas, claves o información confidencial del sistema

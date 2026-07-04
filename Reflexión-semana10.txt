@@ -1,0 +1,3 @@
+Las metodologías ágiles ayudan a organizar el trabajo centrándose en las necesidades reales de la comunidad, permitiendo ajustar las soluciones poco a poco y evitar construir cosas que no sirven. Al usar el backlog y las iteraciones, se prioriza lo más urgente y se mantiene a todos informados del avance.
+ 
+ La automatización, por su parte, libera tiempo de tareas repetitivas como enviar avisos o registrar datos, para dedicarlo a escuchar y acompañar a las personas. Y canales como Telegram facilitan que cualquier integrante se entere de novedades sin herramientas complicadas, acercando la tecnología a quienes no tienen conocimientos técnicos. Juntos, hacen que la participación sea más ordenada, transparente y accesible para todos.

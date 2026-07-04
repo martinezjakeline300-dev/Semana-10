@@ -1,0 +1,19 @@
+🔴 Prioridad 1 (Esencial)
+ 
+ Como ciudadano quiero registrar una incidencia o petición para dejar constancia formal de mi solicitud y su fecha.
+  
+  🟠 Prioridad 2 (Esencial)
+   
+   Como ciudadano quiero conocer el estado de mi reporte para saber si fue recibido, revisado o requiere más información.
+    
+    🟡 Prioridad 3 (Alta)
+     
+     Como coordinador comunitario quiero recibir una notificación sencilla en Telegram cada vez que se registra un nuevo reporte para darle seguimiento oportuno.
+      
+      🟢 Prioridad 4 (Media)
+       
+       Como miembro del equipo de veeduría quiero ver un listado de todos los reportes para identificar las necesidades más frecuentes del barrio.
+        
+        🔵 Prioridad 5 (Baja)
+         
+         Como ciudadano quiero consultar respuestas a preguntas frecuentes para resolver dudas sin tener que registrar una nueva solicitud.

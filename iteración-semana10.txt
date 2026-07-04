@@ -1,0 +1,25 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+ 
+ 1. Como ciudadano quiero registrar una incidencia o petición para dejar constancia formal de mi solicitud y su fecha.
+
+ 2. Como ciudadano quiero conocer el estado de mi reporte para saber si fue recibido, revisado o requiere más información.
+  
+   
+   
+   2. ¿Por qué son las más importantes?
+    
+    Son la base del funcionamiento de la herramienta: sin la posibilidad de registrar reportes, no existe información que gestionar; y sin saber su estado, los usuarios no obtienen respuesta ni seguimiento, por lo que la solución pierde todo su propósito comunitario. Son las funciones esenciales para que la plataforma cumpla su objetivo principal.
+     
+      
+      
+      3. ¿Qué significa que una tarea esté "terminada"? (Definición + criterios)
+       
+       Una tarea está terminada cuando cumple con todos los requisitos solicitados, se ha comprobado que funciona correctamente y cuenta con la evidencia necesaria para validarla. Sus criterios son:
+        
+        - ✅ Funciona tal como se describió en la historia de usuario.
+
+        - ✅ Fue probada con casos reales y no presenta fallos graves.
+
+        - ✅ Cuenta con la evidencia de pruebas y se ha registrado en el repositorio.
+
+        - ✅ No maneja datos sensibles sin las garantías de privacidad correspondientes.
